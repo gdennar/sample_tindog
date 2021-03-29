@@ -53,8 +53,8 @@ p{
 
 .nav-link{
     font-size: 1.5rem;
-    font-family: 'Montserrat-black';
-    font-weight:bold;
+    font-family: 'Montserrat-light';
+    
 }
 
 /* download buttons */
@@ -179,7 +179,11 @@ p{
        width:60%;
     }
 
-   
+   .nav-link{
+    font-size:2.5rem;
+    font-family: 'Montserrat-black';
+    font-weight:bold;
+}
     
     
 }
